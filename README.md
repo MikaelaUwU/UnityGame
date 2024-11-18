@@ -1,6 +1,6 @@
 # Unity WebGL CI/CD with GitHub Actions
 
-WebGL published here (EDIT IT!) https://MikaelaUwU.github.io/SaoBangUnityGame/
+WebGL published here (EDIT IT!) https://pirates-offa-boat.github.io/EthanUnityGame
 
 # Setup Steps:
 
